@@ -13,4 +13,5 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /ppgep/index.php [L]
 </IfModule>
 
+# https://rockcontent.com/br/blog/htaccess/ 
 # END WordPress
